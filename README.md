@@ -20,7 +20,7 @@ To run this project, you'll need the following dependencies:
 Install the required libraries using `pip`:
 ```bash
 pip install torch torchvision matplotlib scikit-learn pillow
-‍‍‍‍‍```
+```
 
 
 ## Download Dataset
